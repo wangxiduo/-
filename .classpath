@@ -13,5 +13,13 @@
 	<classpathentry kind="lib" path="F:/测试资料/验证码识别技术/aip-java-sdk-4.1.1/aip-java-sdk-4.1.1.jar"/>
 	<classpathentry kind="lib" path="F:/测试资料/验证码识别技术/aip-java-sdk-4.1.1/json-20160810.jar"/>
 	<classpathentry kind="lib" path="F:/测试资料/验证码识别技术/aip-java-sdk-4.1.1/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/runajian/8-5 Jon 移动端自动化测试环境搭建Appium/_0805/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/runajian/8-5 Jon 移动端自动化测试环境搭建Appium/_0805/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/runajian/8-5 Jon 移动端自动化测试环境搭建Appium/_0805/java-client-6.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/runajian/8-5 Jon 移动端自动化测试环境搭建Appium/_0805/selenium-java-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/runajian/8-5 Jon 移动端自动化测试环境搭建Appium/_0805/selenium-server-standalone-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/SHDownload/aip-java-sdk-4.2.0/aip-java-sdk-4.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/SHDownload/aip-java-sdk-4.2.0/json-20160810.jar"/>
+	<classpathentry kind="lib" path="F:/SHDownload/aip-java-sdk-4.2.0/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

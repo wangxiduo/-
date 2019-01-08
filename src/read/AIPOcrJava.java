@@ -4,7 +4,7 @@ import com.baidu.aip.ocr.AipOcr;
 
 public class AIPOcrJava extends AipOcr {
 
-	// …Ë÷√APPID/AK/SK
+	
 	public static final String APP_ID = "11634325";
 	public static final String API_KEY = "oOsxvYn9KSh6c4Abn958LjfH";
 	public static final String SECRET_KEY = "hAsEuUbxnGshEiC6fqIbE7bEmqIx78U3";
